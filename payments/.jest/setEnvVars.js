@@ -1,0 +1,1 @@
+process.env.STRIPE_KEY='sk_test_51LAuXwHNnWD8te6dG0bKisMqfrvsXZXZaucQjcvXht0JPwLb0ePAO2wRNvOH3TKgvmmpyEXAe6DOXtZXwldidlGE00dWu3vgEg'
